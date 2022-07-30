@@ -11,4 +11,4 @@ Lazy Loading'in tam tersi yönde çalışır. Kullanacağımız nesneleri, nesne
 # Postman
 
 LastAssignment klasörü içersinde en allta mevcuttur. 
-<b>Week6.postman_collection
+<br><b>Week6.postman_collection
